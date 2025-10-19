@@ -134,11 +134,8 @@ Esses exemplos podem ser usados para pré-carregar dados, se desejado.
 | Nome Completo | RA | Função no Projeto |
 |----------------|----|-------------------|
 | Antonio Tomasi | — | Lógica principal e revisão final |
-| (Nome 2) | — | Implementação da fila |
-| (Nome 3) | — | Implementação da pilha |
-| (Nome 4) | — | Testes e documentação |
-
-> *Substitua os nomes acima pelos integrantes reais do grupo antes de enviar ao professor.*
+| Gustavo Lona | — | Implementação da fila |
+| Julia Machado | — | Implementação da pilha |
 
 ---
 
@@ -155,12 +152,7 @@ Esses exemplos podem ser usados para pré-carregar dados, se desejado.
    ```
 4. Use o menu para interagir com o sistema.
 
----
-
-## Conceitos Demonstrados
-
-- Lista encadeada simples (ponteiros manuais)  
-- Pilha (LIFO)  
+--- 
 - Fila (FIFO)  
 - Estrutura de dados dinâmica (sem limite fixo)  
 - Controle de exceções e entrada de dados  
