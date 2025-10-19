@@ -19,14 +19,6 @@ O sistema permite:
 
 ---
 
-## Regras do Trabalho
-
-Conforme solicitado, **não foram utilizadas funções prontas** da linguagem.  
-**Permitidos:** `String`, `int`, `float`, `try-catch`, `Scanner`, `System.out.print`.  
-**Proibidos:** `List`, `ArrayList`, `Stack`, `Queue`, `Arrays`, `StringBuilder` e qualquer estrutura de dados da biblioteca padrão.
-
----
-
 ## Estrutura do Código
 
 ### Classe `Elemento`
